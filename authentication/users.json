@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "$2b$12$tiwS2XWDj2kwqD373Oe1nOdVM4cmKuoY3HMdwTw.hIMZ7D8CZvYxe",
+            "role": "Administrator"
+        },
+        {
+            "username": "operator",
+            "password": "Wind@123",
+            "role": "Operator"
+        }
+    ]
+}

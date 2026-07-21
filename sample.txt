@@ -1,0 +1,3 @@
+Wind Turbine Speed = 15 RPM
+Blade Pitch = 12 Degrees
+Generator Power = 5 MW
