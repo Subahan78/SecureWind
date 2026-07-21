@@ -1,6 +1,4 @@
 import random
-
-
 def monitor_turbine():
 
     temperature = random.randint(35, 95)
